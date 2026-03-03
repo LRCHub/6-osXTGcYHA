@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "NO LOVE BUT FOR OUR OWN",
+  "base_artist": "Speed",
+  "createdAt": "2026-03-03T11:08:44.177625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NO LOVE BUT FOR OUR OWN",
+      "artist": "Speed",
+      "has_synced": false,
+      "path": "select/01_NO_LOVE_BUT_FOR_OUR_OWN_Speed.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO LOVE BUT FOR OUR OWN",
+      "artist": "Speed",
+      "has_synced": false,
+      "path": "select/pl_01_NO_LOVE_BUT_FOR_OUR_OWN_Speed.txt"
+    }
+  ]
+}
